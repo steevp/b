@@ -1,0 +1,6 @@
+[Unit]
+Description=Post to yourewinner.com
+
+[Service]
+Type=simple
+ExecStart=/home/steven/src/markov/start.sh
